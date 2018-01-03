@@ -1,0 +1,9 @@
+{
+  "@class" : "org.apereo.cas.services.RegexRegisteredService",
+  "serviceId" : "https://portal.whiterock.cf/**",
+  "name" : "CAS Management",
+  "theme" : "apereo",
+  "id" : 10000003,
+  "description" : "CAS Registry Management",
+  "evaluationOrder" : 3
+}
